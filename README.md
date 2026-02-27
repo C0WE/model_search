@@ -314,3 +314,4 @@ https://cloud.google.com/automl-tables
 branch1: первое изменение
 branch1: второе изменение
 branch1: третье изменение
+branch1: доп. изменение 1
