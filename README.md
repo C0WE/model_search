@@ -313,3 +313,4 @@ Want to try higher performance AutoML without writing code? Try:
 https://cloud.google.com/automl-tables
 branch2: КОНФЛИКТ первое изменение
 branch2: КОНФЛИКТ второе изменение
+branch2: КОНФЛИКТ третье изменение
