@@ -314,3 +314,6 @@ https://cloud.google.com/automl-tables
 branch2: КОНФЛИКТ первое изменение
 branch2: КОНФЛИКТ второе изменение
 branch2: КОНФЛИКТ третье изменение
+branch1: первое изменение
+branch1: второе изменение
+branch1: третье изменение
